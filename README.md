@@ -1,4 +1,4 @@
-# Nginx autoindex theme
+# Nginx autoindex dark theme
 
 ## Installation
 
@@ -21,3 +21,7 @@ autoindex on;
 
 - https://github.com/JoseluCross/nginx-indexer
 - https://github.com/manala/nginx-autoindex-theme
+
+## Disclaimer
+
+For information, the html code will be invalid, there will be two ```<html>``` tags.
