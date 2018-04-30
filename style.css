@@ -1,0 +1,51 @@
+*,
+::before,
+::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	min-width: 320px;
+	margin: 1em;
+	/* color: #fff; */
+	color: #999;
+	background-color: #222;
+	font-size: 14px;
+	font-family: monospace;
+}
+
+a {
+	/* color: #2A9FD6; */
+	color: #fff;
+	text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: #2A9FD6;
+	/* color: #1d7097; */
+}
+
+h1 {
+	padding: 1em;
+	color: #d3d3d3;
+	font-size: 1.1em;
+	font-weight: normal;
+}
+
+hr {
+	display: block;
+	height: 0;
+	overflow: visible;
+	border-top: 1px solid #555;
+	border-bottom: none;
+}
+
+pre {
+	margin: 1em;
+	line-height: 1.5em;
+}
+
